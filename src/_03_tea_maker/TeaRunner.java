@@ -7,7 +7,7 @@ public static void main(String[] args) {
 	
 	TeaBag bag = new TeaBag("Peach");
 	Kettle k = new Kettle();
-	 k.boil();
+	k.boil();
 	Water w = k.getWater();
 	
 	
